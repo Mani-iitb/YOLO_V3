@@ -6,14 +6,14 @@ This repository contains a complete implementation of [YOLOv3 (You Only Look Onc
 
 ## Project Structure
 
-├── yolov3.ipynb # Jupyter notebook with the architecture setup, loading weights, and inference with sample test images.
-├── data/ # contains classes for COCO dataset
-├── images/ # test images
-├── dst/ # object detection applied test images(output of YOLO v3)
-├── cfg/ #Contains configuration file for YOLO v3
-├── yolov3.weights #pre-trained weights of YOLO v3
-├── pallete #for coloring the bounding box borders
-└── README.md # Project documentation
+├── yolov3.ipynb # Jupyter notebook with the architecture setup, loading weights, and inference with sample test images.<br>
+├── data/ # contains classes for COCO dataset<br>
+├── images/ # test images<br>
+├── dst/ # object detection applied test images(output of YOLO v3)<br>
+├── cfg/ #Contains configuration file for YOLO v3<br>
+├── yolov3.weights #pre-trained weights of YOLO v3<br>
+├── pallete #for coloring the bounding box borders<br>
+└── README.md # Project documentation<br>
 
 ## Features
 
