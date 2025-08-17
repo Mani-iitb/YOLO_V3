@@ -1,6 +1,6 @@
 # YOLOv3 from Scratch
 
-![YOLO Logo](./images/360_F_191456036_d2Qnooz0lODWyEFQfintvYgliioHoIaI.webp)
+![YOLO Logo](./images/yolo.jpeg)
 
 This repository contains a complete implementation of [YOLOv3 (You Only Look Once version 3)](https://pjreddie.com/darknet/yolo/) from scratch using PyTorch. The project includes the architecture setup, loading weights, and inference with sample test images.
 
